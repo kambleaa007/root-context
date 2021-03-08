@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kambleaa007/root-context/issues"
   },
-  "homepage": "https://github.com/kambleaa007/root-context#readme"
+  "homepage": "https://github.com/kambleaa007/root-context#readme",
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
