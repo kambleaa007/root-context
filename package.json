@@ -1,0 +1,19 @@
+{
+  "name": "react-root-context",
+  "version": "1.0.0",
+  "description": "root context",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kambleaa007/root-context.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kambleaa007/root-context/issues"
+  },
+  "homepage": "https://github.com/kambleaa007/root-context#readme"
+}
